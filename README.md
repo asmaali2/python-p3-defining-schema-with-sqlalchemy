@@ -136,7 +136,7 @@ if __name__ == '__main__':
 ```
 
 Now run `chmod +x lib/sqlalchemy_sandbox.py` to make the script executable.
-Run `lib/sqlalchemy_sandbox.py` from your Pipenv shell and you should see that
+Run `pylib/sqlalchemy_sandbox.` from your Pipenv shell and you should see that
 a `students.db` has popped up with a `students` table.
 
 Just as with using the `sqlite3` Python module on its own, we need to start by
